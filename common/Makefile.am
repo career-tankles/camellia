@@ -1,4 +1,4 @@
 
-SUBDIRS = md5
+SUBDIRS = md5 hashtable
 
 
