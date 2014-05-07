@@ -9,6 +9,7 @@ AC_CONFIG_FILES([
             Makefile
             common/Makefile
             common/md5/Makefile
+            common/cJSON/Makefile
             common/hashtable/Makefile
             src/Makefile
     ])

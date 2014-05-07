@@ -1,4 +1,4 @@
 
-SUBDIRS = md5 hashtable
+SUBDIRS = md5 cJSON hashtable
 
 
