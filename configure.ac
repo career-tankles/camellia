@@ -8,6 +8,7 @@ AC_CONFIG_HEADERS([config.h])
 AC_CONFIG_FILES([
             Makefile
             common/Makefile
+            common/io/Makefile
             common/md5/Makefile
             common/cJSON/Makefile
             common/hashtable/Makefile
