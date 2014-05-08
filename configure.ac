@@ -11,6 +11,7 @@ AC_CONFIG_FILES([
             common/io/Makefile
             common/md5/Makefile
             common/cJSON/Makefile
+            common/base64/Makefile
             common/hashtable/Makefile
             src/Makefile
     ])

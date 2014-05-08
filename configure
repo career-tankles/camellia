@@ -3364,7 +3364,7 @@ fi
 
           ac_config_headers="$ac_config_headers config.h"
 
-                                                                      ac_config_files="$ac_config_files Makefile common/Makefile common/io/Makefile common/md5/Makefile common/cJSON/Makefile common/hashtable/Makefile src/Makefile"
+                                                                                ac_config_files="$ac_config_files Makefile common/Makefile common/io/Makefile common/md5/Makefile common/cJSON/Makefile common/base64/Makefile common/hashtable/Makefile src/Makefile"
 
 
 cat >confcache <<\_ACEOF
@@ -3928,6 +3928,7 @@ do
   "common/io/Makefile" ) CONFIG_FILES="$CONFIG_FILES common/io/Makefile" ;;
   "common/md5/Makefile" ) CONFIG_FILES="$CONFIG_FILES common/md5/Makefile" ;;
   "common/cJSON/Makefile" ) CONFIG_FILES="$CONFIG_FILES common/cJSON/Makefile" ;;
+  "common/base64/Makefile" ) CONFIG_FILES="$CONFIG_FILES common/base64/Makefile" ;;
   "common/hashtable/Makefile" ) CONFIG_FILES="$CONFIG_FILES common/hashtable/Makefile" ;;
   "src/Makefile" ) CONFIG_FILES="$CONFIG_FILES src/Makefile" ;;
   "depfiles" ) CONFIG_COMMANDS="$CONFIG_COMMANDS depfiles" ;;
